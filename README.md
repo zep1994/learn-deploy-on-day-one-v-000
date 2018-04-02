@@ -45,7 +45,17 @@ The structure of this project looks something like this:
 
 ## Getting Started
 
-Fork and clone this lab.
+## Tasks for LearnIDE Environment Users
+
+1. Click the "OPEN IDE" button
+
+## Tasks for Local Environment Users
+
+1. Fork this repository.
+2. Clone your fork locally.
+3. `cd` into the local repo you just cloned.
+
+## Process 
 
 #### Add your images
 
